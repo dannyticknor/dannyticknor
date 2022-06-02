@@ -6,6 +6,9 @@ I'm interested in learning just about anything.
 
 Wanna Talk More? Shoot me a message!  :grin:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannyticknor&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 [LinkedIn](https://www.linkedin.com/in/dannyticknor/)
 
 <!---
