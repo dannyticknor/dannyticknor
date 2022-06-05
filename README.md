@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="500"/>
+</div>
+
 👋 Hey! Thanks for stopping by.
 
 I'm Danny and I recently graduated from UC Berkeley with degrees in Data Science and Environmental Economics. 
@@ -9,6 +13,7 @@ Wanna Talk More? Shoot me a message!  :grin:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="500"/>
 </div>
+Label-Color
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannyticknor&theme=dark&background=000000)](https://git.io/streak-stats)
 
