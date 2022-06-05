@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="100"/>
+</div>
+
+https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif
 👋 Hey! Thanks for stopping by.
 
 I'm Danny and I recently graduated from UC Berkeley with degrees in Data Science and Environmental Economics. 
